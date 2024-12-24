@@ -52,12 +52,12 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(s/notosansjp/v53/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFJEk75s.ttf) format('truetype');
+  /* src: url(s/notosansjp/v53/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFJEk75s.ttf) format('truetype'); */
 }
 @font-face {
   font-family: 'Noto Sans JP';
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(s/notosansjp/v53/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFLgk75s.ttf) format('truetype');
+  /* src: url(s/notosansjp/v53/-F6jfjtqLzI2JPCgQBnw7HFyzSD-AsregP8VFLgk75s.ttf) format('truetype'); */
 }
